@@ -1,5 +1,3 @@
-// Ilja Fonarevs 3.grupa 221RDB217
-
 import java.io.*;
 import java.util.LinkedList;
 import java.util.Scanner;
